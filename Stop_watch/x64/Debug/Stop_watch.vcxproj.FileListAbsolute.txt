@@ -1,0 +1,3 @@
+C:\Users\Harshpalsinh\source\repos\Stop_watch\Stop_watch\x64\Debug\Stop_watch.vcxproj.AssemblyReference.cache
+C:\Users\Harshpalsinh\source\repos\Stop_watch\Stop_watch\x64\Debug\Stopwatch.MyForm.resources
+C:\Users\Harshpalsinh\source\repos\Stop_watch\Stop_watch\x64\Debug\Stop_watch.vcxproj.GenerateResource.cache
